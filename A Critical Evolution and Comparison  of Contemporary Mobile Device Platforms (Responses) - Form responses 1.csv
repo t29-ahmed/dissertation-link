@@ -1,0 +1,166 @@
+Timestamp,Age,Gender,Are you a?,Mobile Platform you use?,Does your mobile platform have a collection of intuitive functionalities?,Does your mobile platform make it difficult to deploy mobile applications without coding knowledge?,Does the interface on your mobile platform lack usability?,Can you build learning activities for mobile devices using your mobile platform?,Does your mobile platform have a clear description of the features it offers?,Do you use unfamiliar interaction techniques on your mobile platform?,Does deploying your scenario as a mobile application on your mobile platform provide any challenges?,Does your mobile platform function as you would hope?,Is using your mobile platform tiresome?,Do you have access to internal sensor data collection on your mobile platform?,Does the functionality of your mobile platform have a clear description?,Does your mobile platform assist you in learning fresh upgrades to its design and understanding?
+10/08/2022 23:08:38,16-25,Male,A mobile phone user,Android,Yes,I don't know,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes
+10/08/2022 23:09:10,26-40,Male,A mobile phone user,Apple,Yes,I don't know,I don't know,Yes,Yes,No,No,Yes,No,I don't know,Yes,I don't know
+10/08/2022 23:12:05,26-40,Male,A mobile phone user,Android,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+10/08/2022 23:15:47,16-25,Female,A mobile phone user,Apple,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+10/08/2022 23:16:36,16-25,Male,A mobile phone user,Apple,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes
+10/08/2022 23:16:38,16-25,Female,A mobile phone user,Apple,Yes,I don't know,I don't know,Yes,Yes,No,I don't know,Yes,I don't know,No,Yes,Yes
+10/08/2022 23:17:33,16-25,Female,A mobile phone user,Apple,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+10/08/2022 23:22:56,16-25,Male,A mobile phone user,Apple,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes
+10/08/2022 23:23:07,26-40,Male,A mobile phone user,Apple,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+10/08/2022 23:24:53,16-25,Male,A mobile phone user,Android,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+10/08/2022 23:25:38,26-40,Male,A mobile phone user,Android,I don’t know,Yes,Yes,Yes,Yes,Yes,Yes,Yes,I don't know,Yes,Yes,Yes
+10/08/2022 23:26:31,16-25,Male,A mobile phone user,Android,I don’t know,I don't know,I don't know,No,Yes,I don't know,I don't know,I don't know,I don't know,Yes,Yes,Yes
+10/08/2022 23:28:29,16-25,Male,A mobile phone user,Android,I don’t know,I don't know,I don't know,Yes,No,Yes,Yes,No,Yes,No,I don't know,No
+10/08/2022 23:28:42,16-25,Male,A mobile phone user,Apple,I don’t know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,No,No,No
+10/08/2022 23:30:02,16-25,Male,A mobile phone user,Android,I don’t know,I don't know,I don't know,No,I don't know,I don't know,I don't know,I don't know,I don't know,No,I don't know,I don't know
+10/08/2022 23:30:16,16-25,Female,A mobile phone user,Apple,I don’t know,No,No,I don't know,Yes,No,I don't know,Yes,Yes,I don't know,Yes,Yes
+10/08/2022 23:30:21,16-25,Male,A mobile phone user,Apple,I don’t know,No,No,No,Yes,Yes,I don't know,Yes,No,No,Yes,Yes
+10/08/2022 23:30:45,16-25,Male,A mobile phone user,Android,Yes,No,Yes,Yes,Yes,I don't know,No,Yes,No,Yes,I don't know,Yes
+10/08/2022 23:31:09,26-40,Male,A mobile phone user,Android,No,No,I don't know,Yes,I don't know,No,No,Yes,No,Yes,Yes,Yes
+10/08/2022 23:31:30,26-40,Male,A mobile phone user,Android,I don’t know,No,No,Yes,Yes,No,I don't know,No,No,Yes,Yes,No
+10/08/2022 23:32:58,16-25,Male,A mobile phone user,Apple,Yes,No,No,Yes,Yes,No,I don't know,Yes,No,Yes,Yes,Yes
+10/08/2022 23:33:19,16-25,Male,A mobile phone user,Android,No,Yes,I don't know,No,No,I don't know,Yes,Yes,Yes,I don't know,No,No
+10/08/2022 23:33:33,16-25,Male,A mobile phone user,Apple,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes
+10/08/2022 23:34:36,16-25,Male,A mobile phone user,Android,I don’t know,I don't know,I don't know,Yes,I don't know,I don't know,I don't know,Yes,No,I don't know,Yes,Yes
+10/08/2022 23:38:42,26-40,Male,A mobile phone user,Symbian,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No
+10/08/2022 23:39:15,16-25,Male,A mobile phone user,Android,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+10/08/2022 23:39:18,16-25,Male,A mobile phone user,Android,I don’t know,No,No,No,Yes,No,Yes,Yes,No,No,No,No
+10/08/2022 23:41:34,16-25,Female,A mobile phone user,Apple,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No
+10/08/2022 23:41:53,26-40,Male,A mobile phone user,Android,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No
+10/08/2022 23:42:10,16-25,Male,A mobile phone user,Android,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+10/08/2022 23:42:25,16-25,Female,A mobile phone user,Apple,I don’t know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,Yes,No,I don't know,Yes,I don't know
+10/08/2022 23:42:39,26-40,Male,A mobile phone app developer,Android,I don’t know,I don't know,,I don't know,Yes,No,I don't know,No,No,Yes,Yes,No
+10/08/2022 23:42:59,16-25,Female,A mobile phone user,Android,Yes,No,No,No,Yes,I don't know,No,Yes,No,I don't know,Yes,Yes
+10/08/2022 23:43:27,16-25,Male,A mobile phone user,Android,I don’t know,I don't know,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+10/08/2022 23:43:51,16-25,Female,A mobile phone user,Apple,I don’t know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,No,I don't know,I don't know,I don't know
+10/08/2022 23:46:51,16-25,Male,A mobile phone user,Android,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+10/08/2022 23:47:15,16-25,Female,A mobile phone user,Apple,Yes,No,Yes,Yes,Yes,No,No,Yes,No,I don't know,Yes,Yes
+10/08/2022 23:50:01,16-25,Male,A mobile phone user,Apple,Yes,Yes,Yes,Yes,No,No,Yes,Yes,I don't know,I don't know,I don't know,I don't know
+10/08/2022 23:50:19,16-25,Female,A mobile phone user,Apple,Yes,No,Yes,I don't know,No,No,I don't know,Yes,No,No,No,Yes
+10/08/2022 23:51:35,16-25,Male,A mobile phone user,Apple,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes
+10/08/2022 23:51:52,16-25,Male,A mobile phone user,Apple,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes
+10/08/2022 23:52:30,16-25,Male,A mobile phone user,Apple,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+10/08/2022 23:52:54,26-40,Male,A mobile phone user,Apple,I don’t know,I don't know,No,Yes,Yes,Yes,I don't know,Yes,I don't know,Yes,Yes,Yes
+10/08/2022 23:53:43,16-25,Male,A mobile phone user,Android,Yes,I don't know,I don't know,Yes,I don't know,No,I don't know,I don't know,Yes,Yes,Yes,Yes
+10/08/2022 23:54:08,16-25,Female,A mobile phone user,Apple,Yes,No,No,I don't know,Yes,No,I don't know,Yes,No,I don't know,Yes,Yes
+10/08/2022 23:54:25,26-40,Male,A mobile phone user,Android,No,I don't know,No,No,Yes,No,I don't know,Yes,No,I don't know,Yes,No
+10/08/2022 23:56:19,16-25,Male,A mobile phone user,Android,I don’t know,I don't know,I don't know,Yes,I don't know,No,No,I don't know,I don't know,No,Yes,Yes
+10/08/2022 23:57:17,16-25,Male,A mobile phone user,Android,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+10/08/2022 23:58:21,16-25,Female,A mobile phone user,Apple,Yes,I don't know,I don't know,Yes,Yes,No,I don't know,Yes,No,I don't know,Yes,Yes
+10/08/2022 23:58:44,16-25,Male,A mobile phone user,Android,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+10/08/2022 23:59:29,16-25,Male,A mobile phone user,Apple,I don’t know,I don't know,I don't know,Yes,Yes,,I don't know,Yes,I don't know,Yes,Yes,Yes
+11/08/2022 00:00:20,16-25,Female,A mobile phone user,Apple,I don’t know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,Yes,No,I don't know,I don't know,I don't know
+11/08/2022 00:01:26,16-25,Male,A mobile phone user,Android,I don’t know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,No,I don't know,Yes
+11/08/2022 00:02:32,26-40,Male,A mobile phone user,Apple,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/08/2022 00:03:37,16-25,Male,A mobile phone user,Android,I don’t know,Yes,I don't know,Yes,Yes,No,No,I don't know,I don't know,I don't know,Yes,Yes
+11/08/2022 00:05:14,16-25,Male,A mobile phone user,Apple,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+11/08/2022 00:05:47,26-40,Male,A mobile phone user,Android,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+11/08/2022 00:07:15,16-25,Male,A mobile phone user,Android,I don’t know,I don't know,No,No,I don't know,I don't know,I don't know,Yes,Yes,No,No,I don't know
+11/08/2022 00:09:51,26-40,Male,A mobile phone user,Android,Yes,Yes,I don't know,No,Yes,No,Yes,No,Yes,I don't know,Yes,No
+11/08/2022 00:10:46,16-25,Male,A mobile phone user,Android,Yes,Yes,I don't know,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/08/2022 00:12:53,16-25,Male,A mobile phone user,Apple,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes
+11/08/2022 00:12:53,26-40,Female,A mobile phone user,Android,I don’t know,I don't know,I don't know,No,Yes,No,I don't know,Yes,I don't know,I don't know,I don't know,Yes
+11/08/2022 00:13:18,16-25,Male,A mobile phone user,Android,I don’t know,No,No,No,No,Yes,Yes,No,No,I don't know,No,Yes
+11/08/2022 00:15:10,16-25,Male,A mobile phone user,Android,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/08/2022 00:17:12,16-25,Male,A mobile phone user,Android,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes
+11/08/2022 00:17:23,16-25,Male,A mobile phone user,Android,Yes,No,No,No,Yes,Yes,No,Yes,I don't know,I don't know,Yes,Yes
+11/08/2022 00:17:54,16-25,Male,A mobile phone user,Android,Yes,I don't know,I don't know,Yes,Yes,I don't know,I don't know,Yes,Yes,I don't know,I don't know,I don't know
+11/08/2022 00:20:56,26-40,Female,A mobile phone user,Android,I don’t know,I don't know,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes
+11/08/2022 00:21:39,26-40,Male,A mobile phone user,Apple,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+11/08/2022 00:21:46,16-25,Male,A mobile phone user,Android,I don’t know,I don't know,No,No,Yes,Yes,No,Yes,No,I don't know,Yes,Yes
+11/08/2022 00:22:15,16-25,Female,A mobile phone user,Apple,Yes,I don't know,I don't know,I don't know,Yes,I don't know,I don't know,Yes,I don't know,No,Yes,Yes
+11/08/2022 00:23:23,41-65,Male,A mobile phone user,Apple,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+11/08/2022 00:24:49,16-25,Male,A mobile phone user,Apple,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+11/08/2022 00:25:39,16-25,Female,A mobile phone user,Android,I don’t know,No,I don't know,Yes,Yes,No,I don't know,Yes,No,I don't know,I don't know,Yes
+11/08/2022 00:25:52,16-25,Male,A mobile phone user,Apple,No,I don't know,No,Yes,Yes,No,No,No,No,Yes,No,Yes
+11/08/2022 00:27:51,16-25,Male,A mobile phone user,Android,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+11/08/2022 00:27:57,26-40,Male,A mobile phone user,Android,I don’t know,I don't know,Yes,No,No,Yes,Yes,No,Yes,No,No,No
+11/08/2022 00:30:01,16-25,Female,A mobile phone user,Apple,I don’t know,Yes,I don't know,Yes,Yes,No,No,Yes,No,I don't know,Yes,Yes
+11/08/2022 00:32:38,16-25,Male,A mobile phone user,Android,I don’t know,No,No,No,Yes,No,I don't know,Yes,I don't know,I don't know,Yes,I don't know
+11/08/2022 00:32:38,26-40,Male,A mobile phone app developer,Android,Yes,Yes,Yes,I don't know,No,No,Yes,Yes,No,Yes,I don't know,No
+11/08/2022 00:35:04,16-25,Male,A mobile phone user,Apple,Yes,I don't know,No,Yes,Yes,No,No,Yes,I don't know,I don't know,Yes,Yes
+11/08/2022 00:38:55,16-25,,A mobile phone user,Apple,I don’t know,I don't know,I don't know,I don't know,Yes,I don't know,I don't know,No,I don't know,I don't know,I don't know,Yes
+11/08/2022 00:47:46,26-40,Male,A mobile phone user,Apple,Yes,No,No,Yes,Yes,Yes,No,Yes,,Yes,Yes,Yes
+11/08/2022 00:50:27,16-25,Male,A mobile phone user,Android,Yes,No,Yes,Yes,Yes,Yes,I don't know,Yes,No,Yes,Yes,Yes
+11/08/2022 00:52:36,26-40,Male,A mobile phone user,Android,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes
+11/08/2022 00:58:40,16-25,Male,A mobile phone user,Apple,I don’t know,I don't know,No,Yes,Yes,Yes,I don't know,Yes,Yes,No,I don't know,Yes
+11/08/2022 01:12:40,16-25,Male,A mobile phone user,Android,I don’t know,Yes,Yes,Yes,Yes,Yes,Yes,No,No,I don't know,Yes,Yes
+11/08/2022 01:22:24,16-25,Female,A mobile phone user,Android,I don’t know,I don't know,No,I don't know,Yes,No,No,Yes,No,Yes,Yes,Yes
+11/08/2022 01:30:11,16-25,Male,A mobile phone user,Android,Yes,Yes,Yes,Yes,Yes,No,I don't know,No,No,I don't know,I don't know,I don't know
+11/08/2022 01:30:58,16-25,Male,A mobile phone user,Apple,Yes,Yes,I don't know,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+11/08/2022 01:41:59,16-25,Female,A mobile phone user,Apple,I don’t know,No,I don't know,Yes,Yes,No,No,No,No,I don't know,Yes,Yes
+11/08/2022 01:54:19,16-25,Male,A mobile phone user,Android,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+11/08/2022 01:55:22,26-40,Male,A mobile phone user,Apple,I don’t know,No,No,Yes,Yes,I don't know,I don't know,Yes,I don't know,I don't know,Yes,Yes
+11/08/2022 02:01:40,16-25,Female,A mobile phone user,Android,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes
+11/08/2022 02:07:05,16-25,Male,A mobile phone user,Android,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+11/08/2022 02:19:43,26-40,Male,A mobile phone user,Apple,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+11/08/2022 03:17:27,41-65,Male,A mobile phone user,Android,Yes,I don't know,I don't know,Yes,I don't know,I don't know,I don't know,Yes,I don't know,I don't know,I don't know,Yes
+11/08/2022 03:58:16,16-25,Female,A mobile phone user,Android,I don’t know,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes
+11/08/2022 04:27:37,41-65,Male,A mobile phone user,Apple,I don’t know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,Yes,Yes
+11/08/2022 04:57:20,16-25,Male,A mobile phone user,Android,Yes,I don't know,No,I don't know,Yes,Yes,I don't know,Yes,No,No,Yes,Yes
+11/08/2022 05:25:43,26-40,Female,A mobile phone user,Android,Yes,I don't know,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+11/08/2022 05:27:43,16-25,,A mobile phone user,Android,No,No,I don't know,No,Yes,No,,,,,,
+11/08/2022 05:39:05,16-25,Male,A mobile phone user,Android,I don’t know,I don't know,No,No,Yes,No,I don't know,Yes,I don't know,Yes,Yes,Yes
+11/08/2022 05:44:21,16-25,Male,A mobile phone user,Apple,I don’t know,I don't know,I don't know,Yes,Yes,No,I don't know,No,I don't know,Yes,Yes,Yes
+11/08/2022 06:15:39,26-40,Female,A mobile phone user,Android,I don’t know,I don't know,Yes,Yes,Yes,Yes,I don't know,Yes,I don't know,Yes,Yes,Yes
+11/08/2022 06:16:56,16-25,Male,A mobile phone user,Apple,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+11/08/2022 06:20:51,26-40,,A mobile phone user,Android,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/08/2022 06:21:15,16-25,Male,A mobile phone user,Android,I don’t know,No,Yes,Yes,No,No,I don't know,No,Yes,No,No,No
+11/08/2022 06:22:57,16-25,Male,A mobile phone user,Apple,I don’t know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know
+11/08/2022 06:45:01,16-25,Female,A mobile phone user,,I don’t know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know
+11/08/2022 07:15:19,26-40,Male,A mobile phone user,Android,No,No,No,No,No,No,No,I don't know,I don't know,I don't know,I don't know,I don't know
+11/08/2022 07:17:12,26-40,Male,A mobile phone user,Android,I don’t know,I don't know,No,No,No,No,No,No,No,No,No,No
+11/08/2022 08:29:14,16-25,Male,A mobile phone user,Android,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No
+11/08/2022 09:03:16,26-40,Male,A mobile phone user,Apple,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes
+11/08/2022 09:05:05,16-25,Male,A mobile phone user,Android,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+11/08/2022 09:09:31,26-40,Male,A mobile phone user,Android,I don’t know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,,,
+11/08/2022 09:10:34,26-40,Male,A mobile phone user,Android,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes
+11/08/2022 09:20:28,26-40,Male,A mobile phone user,Apple,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes
+11/08/2022 09:22:48,26-40,Male,A mobile phone user,Android,Yes,Yes,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know,I don't know
+11/08/2022 09:36:39,"16-25, 26-40",Male,A mobile phone user,Android,Yes,I don't know,No,Yes,No,No,I don't know,Yes,Yes,Yes,No,Yes
+11/08/2022 09:54:17,16-25,Male,A mobile phone user,Android,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+11/08/2022 10:06:37,16-25,Female,A mobile phone user,Apple,I don’t know,No,I don't know,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes
+11/08/2022 10:32:57,16-25,Male,A mobile phone user,Apple,Yes,No,No,Yes,Yes,I don't know,I don't know,Yes,Yes,No,Yes,Yes
+11/08/2022 10:38:50,16-25,Male,A mobile phone user,Android,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+11/08/2022 10:42:19,"16-25, 26-40",Male,A mobile phone user,Android,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes
+11/08/2022 10:47:36,26-40,Male,A mobile phone user,Android,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+11/08/2022 10:50:29,16-25,Male,A mobile phone user,Android,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/08/2022 11:06:50,16-25,Male,A mobile phone user,Android,No,I don't know,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+11/08/2022 11:26:48,16-25,Male,A mobile phone user,Android,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+11/08/2022 11:31:58,26-40,Male,A mobile phone user,Android,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes
+11/08/2022 12:27:21,26-40,Male,A mobile phone user,Apple,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes
+11/08/2022 12:27:33,26-40,Male,A mobile phone user,Apple,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes
+11/08/2022 12:39:43,16-25,Male,A mobile phone user,Apple,Yes,No,No,Yes,Yes,No,No,Yes,No,No,,No
+11/08/2022 13:03:16,16-25,Male,A mobile phone user,Apple,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,,,
+11/08/2022 13:05:17,26-40,Female,A mobile phone user,Android,Yes,No,No,I don't know,Yes,No,I don't know,Yes,No,I don't know,Yes,Yes
+11/08/2022 13:23:21,16-25,Male,A mobile phone user,Android,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+11/08/2022 13:43:48,16-25,Male,A mobile phone user,Android,I don’t know,No,No,No,Yes,No,I don't know,No,No,Yes,Yes,Yes
+11/08/2022 13:44:38,16-25,Male,A mobile phone user,Android,I don’t know,I don't know,I don't know,I don't know,Yes,Yes,,No,No,No,I don't know,I don't know
+11/08/2022 13:51:49,16-25,Male,A mobile phone user,Android,Yes,No,No,No,Yes,No,I don't know,Yes,No,I don't know,Yes,Yes
+11/08/2022 14:15:44,16-25,Male,A mobile phone user,Android,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,I don't know,Yes
+11/08/2022 14:47:42,16-25,Male,A mobile phone user,Apple,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/08/2022 14:53:13,26-40,Male,A mobile phone user,Android,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+11/08/2022 15:05:16,41-65,Male,A mobile phone user,Android,Yes,No,Yes,Yes,No,No,,No,I don't know,No,Yes,Yes
+11/08/2022 15:09:39,26-40,Male,A mobile phone user,Android,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes
+11/08/2022 15:33:10,16-25,Female,A mobile phone user,Android,Yes,No,No,No,Yes,No,I don't know,Yes,No,Yes,Yes,No
+11/08/2022 16:02:23,16-25,Male,A mobile phone user,Apple,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes
+11/08/2022 16:05:49,16-25,Male,A mobile phone user,Android,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,
+11/08/2022 17:17:51,16-25,Male,A mobile phone user,Android,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/08/2022 17:19:22,16-25,Male,A mobile phone user,Android,Yes,Yes,Yes,Yes,Yes,,No,Yes,Yes,Yes,Yes,Yes
+11/08/2022 17:25:07,16-25,Male,A mobile phone user,Android,I don’t know,I don't know,I don't know,Yes,No,No,I don't know,No,I don't know,No,No,No
+11/08/2022 17:47:23,16-25,Male,A mobile phone user,Android,Yes,I don't know,No,Yes,No,I don't know,Yes,Yes,No,I don't know,I don't know,Yes
+11/08/2022 18:19:56,16-25,Female,A mobile phone user,Apple,I don’t know,No,No,I don't know,Yes,No,I don't know,Yes,No,I don't know,Yes,Yes
+11/08/2022 18:25:07,26-40,Male,A mobile phone user,Apple,No,I don't know,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No
+11/08/2022 19:39:50,16-25,Male,A mobile phone user,Android,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+11/08/2022 22:16:14,16-25,Female,A mobile phone user,Android,I don’t know,No,I don't know,Yes,Yes,I don't know,Yes,Yes,No,Yes,Yes,Yes
+11/08/2022 23:40:22,16-25,Male,A mobile phone user,Apple,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+11/08/2022 23:56:21,16-25,Male,A mobile phone user,Android,Yes,Yes,I don't know,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+11/08/2022 23:57:09,26-40,Male,A mobile phone user,Android,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+12/08/2022 01:17:56,16-25,Male,A mobile phone user,Apple,Yes,I don't know,No,Yes,Yes,I don't know,No,Yes,No,Yes,Yes,Yes
+12/08/2022 08:42:03,26-40,Female,A mobile phone user,Android,I don’t know,I don't know,I don't know,Yes,Yes,No,I don't know,Yes,No,No,Yes,Yes
+12/08/2022 11:23:55,16-25,Male,A mobile phone user,Android,I don’t know,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No
+12/08/2022 18:18:24,26-40,Male,A mobile phone user,Android,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+13/08/2022 01:35:34,26-40,Male,A mobile phone user,Android,Yes,Yes,Yes,Yes,Yes,I don't know,Yes,Yes,Yes,Yes,Yes,Yes
+13/08/2022 17:38:50,16-25,Male,A mobile phone user,Android,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+18/08/2022 00:54:28,16-25,Male,A mobile phone user,Apple,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes
